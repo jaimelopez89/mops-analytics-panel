@@ -1,0 +1,101 @@
+﻿Company Name,Status,Opportunity Value,Lead IDs,,,,
+Acme Inc,Prospect,0,1,2,3,,
+Globex Corporation,MQL,0,4,5,,,
+Initech,SQL,31064,6,7,8,9,10
+Umbrella Corp,Open Opportunity,120552,11,,,,
+Wayne Enterprises,Closed Lost,70252,12,13,14,15,
+Stark Industries,Closed Won,56763,16,17,,,
+Wonka Industries,Prospect,0,18,19,20,,
+Cyberdyne Systems,MQL,0,21,,,,
+Oscorp,SQL,73059,22,23,24,25,
+Soylent Corp,Open Opportunity,15557,26,27,28,29,30
+Tyrell Corp,Closed Lost,155539,31,32,33,,
+Gringotts Bank,Closed Won,95198,34,35,,,
+Virtucon,Prospect,0,36,37,38,39,40
+Massive Dynamic,MQL,0,41,,,,
+Vandelay Industries,SQL,103423,42,43,44,45,
+Pied Piper,Open Opportunity,31736,46,47,,,
+BLUTH Company,Closed Lost,161007,48,49,50,,
+Oceanic Airlines,Closed Won,139808,51,,,,
+S-Mart,Prospect,0,52,53,54,55,
+Monocle Inc,MQL,0,56,57,58,59,60
+Celestial Tech,SQL,17693,61,62,63,,
+Omni Consumer Products,Open Opportunity,154641,64,65,,,
+Zephyr Corp,Closed Lost,89666,66,67,68,69,70
+InGen,Closed Won,52468,71,,,,
+BuyMore,Prospect,0,72,73,74,75,
+Duff Beer,MQL,0,76,77,,,
+Kwik-E-Mart,SQL,181410,78,79,80,,
+Wernham Hogg,Open Opportunity,101095,81,,,,
+Paper Street Soap Company,Closed Lost,236386,82,83,84,85,
+Dunder Mifflin,Closed Won,89576,86,87,88,89,90
+Prestige Worldwide,Prospect,0,91,92,93,,
+Strickland Propane,MQL,0,94,95,,,
+Rich Industries,SQL,235983,96,97,98,99,100
+Acme Global,Open Opportunity,261920,101,,,,
+Oscorp International,Closed Lost,64845,102,103,104,105,
+Globex Ventures,Closed Won,265225,106,107,,,
+Cyberdyne Global,Prospect,0,108,109,110,,
+LexCorp International,MQL,0,111,,,,
+Umbrella Global,SQL,280407,112,113,114,115,
+Stark Global,Open Opportunity,30118,116,117,118,119,120
+Wonka Global,Closed Lost,156621,121,122,123,,
+Hooli Ventures,Closed Won,305703,124,125,,,
+Initech Solutions,Prospect,0,126,127,128,129,130
+Wayne Enterprises International,MQL,0,131,,,,
+Gringotts Holdings,SQL,243514,132,133,134,135,
+Tyrell Industries,Open Opportunity,97212,136,137,,,
+Globex Holdings,Closed Lost,56875,138,139,140,,
+Oscorp Holdings,Closed Won,113726,141,,,,
+Umbrella Holdings,Prospect,0,142,143,144,145,
+Acme Holdings,MQL,0,146,147,148,149,150
+Initech Holdings,SQL,9476,151,152,153,,
+Stark Holdings,Open Opportunity,386411,154,155,,,
+Wonka Holdings,Closed Lost,88006,156,157,158,159,160
+Hooli Holdings,Closed Won,319171,161,,,,
+LexCorp Holdings,Prospect,0,162,163,164,165,
+Virtucon Holdings,MQL,0,166,167,,,
+Massive Holdings,SQL,479824,168,169,170,,
+Vandelay Holdings,Open Opportunity,503919,171,,,,
+Pied Piper Holdings,Closed Lost,407038,172,173,174,175,
+BLUTH Holdings,Closed Won,211904,176,177,178,179,180
+Oceanic Holdings,Prospect,0,181,182,183,,
+S-Mart Holdings,MQL,0,184,185,,,
+Monocle Holdings,SQL,399740,186,187,188,189,190
+Celestial Holdings,Open Opportunity,8617,191,,,,
+Omni Holdings,Closed Lost,433831,192,193,194,195,
+Zephyr Holdings,Closed Won,44945,196,197,,,
+InGen Holdings,Prospect,0,198,199,200,,
+BuyMore Holdings,MQL,0,201,,,,
+Duff Holdings,SQL,328574,202,203,204,205,
+Kwik-E Holdings,Open Opportunity,228853,206,207,208,209,210
+Wernham Holdings,Closed Lost,277322,211,212,213,,
+Paper Street Holdings,Closed Won,430159,214,215,,,
+Dunder Mifflin Holdings,Prospect,0,216,217,218,219,220
+Prestige Holdings,MQL,0,221,,,,
+Strickland Holdings,SQL,30810,222,223,224,225,
+Rich Holdings,Open Opportunity,457580,226,227,,,
+Vandelay International,Closed Lost,227804,228,229,230,,
+Acme International,Closed Won,559080,231,,,,
+Oscorp International Two,Prospect,0,232,233,234,235,236
+Globex Worldwide,MQL,0,237,,,,
+Cyberdyne International,SQL,19083,238,239,240,,
+LexCorp International Two,Open Opportunity,537979,241,242,243,244,245
+Umbrella International,Closed Lost,544168,246,,,,
+Stark International,Closed Won,198836,247,248,249,250,
+Wonka International,Prospect,0,251,252,253,254,
+Hooli International,MQL,0,255,256,257,258,259
+Initech International,SQL,518498,260,261,262,,
+Wayne Enterprises Global,Open Opportunity,421751,263,264,265,266,267
+Gringotts International,Closed Lost,356631,268,269,270,271,272
+Tyrell International,Closed Won,581996,273,,,,
+Globex Global,Prospect,0,274,275,276,277,
+Oscorp Global,MQL,0,278,279,280,281,282
+NovaTech Solutions,SQL,735280,283,284,285,,
+Quantum Systems,Open Opportunity,627238,286,287,,,
+Vertex Industries,Closed Lost,18586,288,289,290,291,292
+Pioneer Logistics,Closed Won,601102,293,,,,
+Catalyst Innovations,Prospect,0,292,293,294,295,
+Summit Holdings,MQL,0,296,297,298,299,300
+EverGreen Enterprises,SQL,221907,301,302,303,,
+Legacy Partners,Open Opportunity,408465,304,305,,,
